@@ -7,8 +7,15 @@
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
+
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 <div>
   <h1 align="center">
     <a href="https://www.yuque.com/coderxiaoluo">
