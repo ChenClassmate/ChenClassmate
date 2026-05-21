@@ -11,7 +11,7 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/ChenClassmate/ChenClassmate/output/github-contribution-grid-snake.svg)
 
 
 <!--   profile-green-animate -->
