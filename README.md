@@ -1,4 +1,5 @@
 <!-- ![](assets/Bottom_up.svg) -->
+<!--
 <div>
   <h1 align="center">
     <a href="https://www.yuque.com/coderxiaoluo">
@@ -6,6 +7,11 @@
     </a>
   </h1>
 </div>
+-->
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋+我是小陈同学;Welcome+to+My+GitHub+Profile!;Vue3+%7C+React+%7C+SpringBoot;全栈开发工程师;热爱技术+热爱生活+热爱游戏)](https://git.io/typing-svg)
+</p>
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
