@@ -1,4 +1,11 @@
-![](assets/Bottom_up.svg)
+<!-- ![](assets/Bottom_up.svg) -->
+<div>
+  <h1 align="center">
+    <a href="https://www.yuque.com/coderxiaoluo">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小陈同学祝您今天愉快!&center=true&size=27">
+    </a>
+  </h1>
+</div>
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
@@ -8,21 +15,12 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+GitHub Activity Graph:
 
 <!--   green snake -->
 ![ChenClassmate's github activity graph](https://raw.githubusercontent.com/ChenClassmate/ChenClassmate/output/github-contribution-grid-snake.svg)
-
-
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-<div>
-  <h1 align="center">
-    <a href="https://www.yuque.com/coderxiaoluo">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小陈同学祝您今天愉快!&center=true&size=27">
-    </a>
-  </h1>
-</div>
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 <div align="center" text-align: center; letter-spacing: 3px;">
   <!-- 前端技术栈 -->
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
