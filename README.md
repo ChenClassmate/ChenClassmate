@@ -7,9 +7,6 @@
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/ChenClassmate/ChenClassmate/output/github-contribution-grid-snake-dark.svg)
-
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <div>
